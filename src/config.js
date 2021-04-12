@@ -1,1 +1,1 @@
-export const url="mongodb+srv://admin:admin2021@cluster0.etjg1.mongodb.net/comision?retryWrites=true&w=majority";
+export const url="https://prueba-erwin-gulfo-backend.herokuapp.com/";
