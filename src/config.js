@@ -1,1 +1,1 @@
-export const url="https://prueba-erwin-gulfo-backend.herokuapp.com/";
+export const url="https://prueba-erwin-gulfo-backend.herokuapp.com/api/";
