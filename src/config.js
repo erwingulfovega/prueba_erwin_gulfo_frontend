@@ -1,1 +1,1 @@
-export const url="http://localhost:4000/api/";
+export const url="mongodb+srv://admin:admin2021@cluster0.etjg1.mongodb.net/comision?retryWrites=true&w=majority";
